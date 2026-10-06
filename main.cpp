@@ -7,6 +7,7 @@ int main() {
         std::cout << "Error\n";
         return 1;
     }
-    std::cout << "Numbers: " << a << " " << b << '\n';
+    int sum = a + b;
+    std::cout << "Summa: " << sum << '\n';
     return 0;
 }
