@@ -1,0 +1,17 @@
+# ИДЕшка
+.idea/
+
+# Сборщик
+cmake-build-*/
+build/
+
+# Скомпилированные файлы
+*.exe
+*.o
+*.obj
+*.dll
+*.so
+*.dylib
+*.a
+*.lib
+*.pdb
