@@ -7,7 +7,7 @@ int main() {
         std::cout << "Error\n";
         return 1;
     }
-    int sum = a + b;
-    std::cout << "Summa: " << sum << '\n';
+    int differ = a - b;
+    std::cout << "Raznost: " << differ << '\n';
     return 0;
 }
